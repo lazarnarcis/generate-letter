@@ -6,7 +6,7 @@ A square where one letter is generated.
 
 The programming languages used for this project are: <b>html</b> and <b>javascript</b>.
 
-Link to app: https://lazarnarcis.github.io/simple-js/
+Link to app: https://lazarnarcis.github.io/generate-letter/
 
 <hr>
 
